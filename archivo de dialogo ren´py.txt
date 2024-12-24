@@ -1,0 +1,11 @@
+dialogo del dueño =chi è?? è nuovo? beh va bene, non mi interessa. Purché sia ​​meno pauroso del precedente e non passi il tempo a rompere i bicchieri. 
+come ti chiami?
+non parli italiano? maledette mani utili rispetto alle altre. ahi, non picchiarmi, mia cara, ha detto solo quello che penso
+su esposa responde = e faccio solo quello che penso. Funzionerà bene, spero... non sono nervosi come quello precedente. Sai come preparare una margarita? un martini? un'acqua?
+MC: 1: SI! se preparar una margarita! 
+2 : Todavía no se hacerlo seño... madam.
+ la esposa responde = 
+1: Bien me gusta esa respuesta. # se da la vuelta y se va#
+2: bien me gusta esa respuesta. ven querida te enseño yo... solo por hoy. # enseñar menú de preparacion#
+#escena
+# enseña una imagen resumida que como prepararlo
